@@ -1,0 +1,3 @@
+*.joining
+/sam3.1/sam3.1_multiplex.pt
+/sam3.1-image-hf/model.safetensors
